@@ -1,0 +1,110 @@
+section {
+    background-color: #ffcd9e;
+    height: 592px;
+    padding: 66.395px 89.61px 66.155px 91.87px;
+}
+h1.header{
+    padding-top: 60px;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    color: #282828;
+}
+p.para {
+    display: flex;
+    width: 495px;
+    height: 80px;
+    /* flex-direction: column; */
+    justify-content: center;
+    flex-shrink: 0;
+    color: #48484B;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 32px;
+    padding-top: 10px;
+    font-family: sans-serif;
+}
+
+p1.para1 {
+    font-size: large;
+    display: flex;
+    width: 300px;
+    height: 100px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 21px;
+    line-height: 31px;
+    font-weight: 700;
+}
+.col-md-8.form-floating.text-center {
+    margin-left: -2px;
+}
+input#name {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+button.btn.btn-primary.w-100.py-3 {
+    font-weight: 500;
+    background-color: black;
+    border-style: solid;
+    border-width: 0px;
+}
+p3.para3 {
+    display: flex;
+    width: 325px;
+    height: 61px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25.6px;
+    padding-left: 30px;
+}
+img {
+    height: 530px;
+    width: 530px;
+    margin-left: 60px;
+
+}
+label.email {
+    font-weight: 600;
+    margin-left: 20px;
+    color: #888;
+    font-size: larger;
+}
+section.sec{
+    background-color: #282828;
+    height: 306px;
+}
+.color {
+    color: #fff;
+    line-height: 20px;
+    margin-left: 65px;
+    margin-top: 10px;
+    margin-bottom: 65px;
+    font-size: larger;
+}
+.Dweep {
+    color: #fff;
+    text-align: right;
+    line-height: 20px;
+    margin-left: 65px;
+    margin-top: 10px;
+    font-size: larger;
+    margin-right: 85px;
+}
+i.bi.bi-linkedin {
+    color: #ffcd9e;
+    padding-right: 5px;
+}
+i.bi.bi-instagram {
+    color: #ffcd9e;
+}
+p.hello {
+    margin-top: 45px;
+}
